@@ -1,0 +1,24 @@
+{
+  "name": "juego",
+  "version": "1.0.0",
+  "description": "Juego hecho en node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HectorQuinonesBarrios/multisockets.git"
+  },
+  "keywords": [
+    "juego",
+    "multi",
+    "node"
+  ],
+  "author": "Hector Quinones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HectorQuinonesBarrios/multisockets/issues"
+  },
+  "homepage": "https://github.com/HectorQuinonesBarrios/multisockets#readme"
+}
